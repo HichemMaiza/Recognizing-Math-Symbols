@@ -1,7 +1,9 @@
 # This project is about recognizing math symbols using convolutional neural network 
 ## Indication 
 to train the model you have to change the num_epoch from 1 to 100 for exemple  :/ (i've a 2GB of RAM) 
-## Author 
+## Dataset
+math symbols can directly downloaded from the official (ICFHR)[http://icfhr2018.org/] (website)
+## Author
 Hichem MAIZA 
 ## Acknoldgement:
 - Thank you google for tensorflow 
